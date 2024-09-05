@@ -1,0 +1,42 @@
+<faturamentoMensal>
+    <dia>
+        <data>2024-09-01</data>
+        <faturamento>1200.50</faturamento>
+    </dia>
+    <dia>
+        <data>2024-09-02</data>
+        <faturamento>3500.75</faturamento>
+    </dia>
+    <dia>
+        <data>2024-09-03</data>
+        <faturamento>2750.00</faturamento>
+    </dia>
+    <dia>
+        <data>2024-09-04</data>
+        <faturamento>0</faturamento> <!-- Feriado, sem faturamento -->
+    </dia>
+    <dia>
+        <data>2024-09-05</data>
+        <faturamento>1600.25</faturamento>
+    </dia>
+    <dia>
+        <data>2024-09-06</data>
+        <faturamento>4000.80</faturamento>
+    </dia>
+    <dia>
+        <data>2024-09-07</data>
+        <faturamento>0</faturamento> <!-- Fim de semana, sem faturamento -->
+    </dia>
+    <dia>
+        <data>2024-09-08</data>
+        <faturamento>0</faturamento> <!-- Fim de semana, sem faturamento -->
+    </dia>
+    <dia>
+        <data>2024-09-09</data>
+        <faturamento>2200.40</faturamento>
+    </dia>
+    <dia>
+        <data>2024-09-10</data>
+        <faturamento>3000.60</faturamento>
+    </dia>
+</faturamentoMensal>
